@@ -13,12 +13,10 @@ p {
 }
 
 .titulosBrancos {
-    text-decoration: underline;
     text-underline-position: under;
     padding-bottom: 20px;
-    text-transform: uppercase;
     font-weight: 700;
-    color: white;
+    color: black;
 }
 
 .titulosVerdes {
@@ -31,7 +29,7 @@ p {
 }
 
 .paragrafoBrancos {
-    color: white !important;
+    color: black !important;
 }
 
 
